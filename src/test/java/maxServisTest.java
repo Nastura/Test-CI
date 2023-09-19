@@ -9,8 +9,8 @@ public class maxServisTest {
 
         maxServis serves = new maxServis();
 
-        int a = 6;
-        int b = 8;
+        int a = 8;
+        int b = 5;
 
         int actual = a;
         int expected = serves.maxServ(a, b);
